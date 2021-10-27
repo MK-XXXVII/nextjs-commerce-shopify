@@ -7,7 +7,7 @@
 
 .root:hover {
   & .productImage {
-    transform: scale(1.2625);
+    transform: scale(1.000);
   }
 
   & .header .name span,
@@ -78,7 +78,7 @@
 
 .imageContainer .productImage {
   @apply transform transition-transform duration-500
-  object-cover scale-120;
+  object-cover scale-90;
 }
 
 .root .wishlistButton {
