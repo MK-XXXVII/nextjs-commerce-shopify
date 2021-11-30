@@ -1,3 +1,18 @@
 {
-   "editor.fontFamily": "Operator Mono Lig, Menlo, Monaco, 'Courier New', monospace"
+   "editor.fontFamily": "Operator Mono Lig, Menlo, Monaco, 'Courier New', monospace",
+   "cSpell.words": [
+      "Barlinks",
+      "bigcommerce",
+      "codegen",
+      "deepmerge",
+      "entrypoints",
+      "flexbugs",
+      "Searchbar",
+      "SIGNUP",
+      "tabbable",
+      "tailwindcss",
+      "uuidv",
+      "vendure",
+      "vercel"
+   ]
 }

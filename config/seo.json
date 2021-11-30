@@ -1,14 +1,14 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
+  "title": "Stigma Studio | Wall Art",
   "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "description": "Decorate your home or business with museum-quality wall art that comes with a money-back guarantee and is delivered straight to your door.",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "Stigma Studio | Wall Art",
+    "description": "Decorate your home or business with museum-quality wall art that comes with a money-back guarantee and is delivered straight to your door.",
     "type": "website",
     "locale": "en_IE",
     "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "site_name": "Stigma Studio",
     "images": [
       {
         "url": "/card.png",

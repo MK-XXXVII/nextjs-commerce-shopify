@@ -1,13 +1,13 @@
 :root {
-  --primary: #ffffff;
+  --primary: #000;
   --primary-2: #f1f3f5;
   --secondary: #000000;
   --secondary-2: #111;
   --selection: var(--cyan);
 
-  --text-base: #000000;
-  --text-primary: #000000;
-  --text-secondary: white;
+  --text-base: #ffffff;
+  --text-primary: #ffffff;
+  --text-secondary: #000000;
 
   --hover: rgba(0, 0, 0, 0.075);
   --hover-1: rgba(0, 0, 0, 0.15);
